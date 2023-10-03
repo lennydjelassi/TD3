@@ -1,0 +1,6 @@
+/Users/djelassilenny/Projects/TD3/TD3/obj/Debug/TD3.csproj.AssemblyReference.cache
+/Users/djelassilenny/Projects/TD3/TD3/obj/Debug/TD3.csproj.CoreCompileInputs.cache
+/Users/djelassilenny/Projects/TD3/TD3/bin/Debug/TD3.exe
+/Users/djelassilenny/Projects/TD3/TD3/bin/Debug/TD3.pdb
+/Users/djelassilenny/Projects/TD3/TD3/obj/Debug/TD3.exe
+/Users/djelassilenny/Projects/TD3/TD3/obj/Debug/TD3.pdb
